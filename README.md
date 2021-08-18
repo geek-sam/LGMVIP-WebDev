@@ -4,7 +4,7 @@
 
 ## Task_1: __*Create a single page website*__.
 
-![TASK_1 (1)](https://user-images.githubusercontent.com/59483000/129951037-6c376e2c-1e7c-49f5-8ec9-510f01145f90.png)
+In the task 1 I have to create a single page website, that have the section like Header, Home, About, Projects, Pricing, Videos, Team, Gallery, Blog, Contact and Footer.
 
 **Web technologies used**:
 * HTML
