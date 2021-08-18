@@ -1,0 +1,26 @@
+.home{
+    width: 100%;
+    display: flex;
+    min-height: 100vh;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-image:url(./bg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.home .content{
+    flex: 1 1 640px;
+    margin-top: 10px;
+    margin-left: 600px;
+    padding: 50px 25px;
+}
+.home .content p{
+    font-size: 35px;
+    font-weight: 400;
+    color: #fff;
+    letter-spacing: 2px;
+    line-height: 50px;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
