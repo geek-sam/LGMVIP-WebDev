@@ -1,6 +1,6 @@
 # LGMVIP-WedDev
-* This repository contains the projects that created under `Lets Grow More Virtual Internship Program`.
-* There are tow projects named as `Task_1` and `Task_2`.
+* This repository contains the projects that created under _**Lets Grow More Virtual Internship Program**_.
+* There are tow projects named as **Task_1** and **Task_2**.
 
 ## Task_1: __*Create a single page website*__.
 
