@@ -6,7 +6,7 @@
 
 In the task 1 I have to create a single page website, that have the section like Header, Home, About, Projects, Pricing, Videos, Team, Gallery, Blog, Contact and Footer.
 
-**Web technologies used**:
+**Web Technologies Used**:
 * HTML
 * CSS &
 * JavaScript
