@@ -1,6 +1,18 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. To run this project you have to download the files from here.
+
+2. Then Open the location where you want to create the react app.
+
+3. On that folder open powerShell (Shift + Right click, Then click on Open powershell window here).
+
+4. Then type `npx Create-react-app app_name` on the powershell and click Enter. It will generate the basic files that are necessary to create a react app on the folder you selected.
+
+5. Then you can paste the files and folders on the folder you created for the react app. 
+
+6. Or simply you can copy the codes and paste on the files accordingly.
+
+7. To run the application, in the project directory you can run: `npm start`
 
 ## Available Scripts
 
