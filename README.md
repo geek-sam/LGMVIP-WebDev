@@ -1,4 +1,4 @@
-# LGMVIP-WedDev
+# LGMVIP-WeDev
 * This repository contains the projects that created under _**Lets Grow More Virtual Internship Program**_.
 * There are tow projects named as **Task_1** and **Task_2**.
 
