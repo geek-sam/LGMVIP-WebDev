@@ -4,7 +4,7 @@
 
 ## Task_1: __*Create a single page website*__.
 
-In the task 1 I have to create a single page website, that have the section like Header, Home, About, Projects, Pricing, Videos, Team, Gallery, Blog, Contact and Footer.
+In the task 1 I have created a single page website, that has the sections like Header, Home, About, Projects, Pricing, Videos, Team, Gallery, Blog, Contact and Footer.
 
 **Web Technologies Used**:
 * HTML
@@ -13,7 +13,7 @@ In the task 1 I have to create a single page website, that have the section like
 
 ## Task_2: __*Create a web application using create-react-app*__
 
-In the task 2 I have to create a web app and there add a get user button on the navbar, which makes an api call to get the user data.
+In the task 2 I have created a web app and there add a get user button on the navbar, which makes an api call to get the user data.
 
 **Web Technologies Used**:
 * ReactJS &
